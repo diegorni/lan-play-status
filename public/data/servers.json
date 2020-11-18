@@ -7,6 +7,13 @@
     "type": "rust"
   },
   {
+    "ip": "lan.vnetworklabs.com.br",
+    "port": 11451,
+    "flag": "br",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
     "ip": "frog-skins.com",
     "port": 11451,
     "flag": "us",
